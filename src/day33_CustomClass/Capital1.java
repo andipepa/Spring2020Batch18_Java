@@ -8,13 +8,13 @@ public class Capital1 {
         Andi.accountNumber=123456789;
 
         Andi.checkingBalance();
-        Andi.deposit(345);
-        Andi.withDraw(400);
+        Andi.deposit(0);
+        Andi.withDraw(800);
         Andi.checkingBalance();
 
         System.out.println("====================================================================");
 
-        System.out.println(Andi);
+
 
 
 
