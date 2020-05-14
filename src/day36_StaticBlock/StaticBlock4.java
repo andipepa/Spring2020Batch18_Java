@@ -1,6 +1,6 @@
 package day36_StaticBlock;
 
-import Practice_05_06_2020.Tester;
+import officeHours.Practice_05_06_2020.Tester;
 
 public class StaticBlock4 {
 

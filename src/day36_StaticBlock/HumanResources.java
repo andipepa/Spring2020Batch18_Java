@@ -1,6 +1,6 @@
 package day36_StaticBlock;
 
-import Practice_05_06_2020.Developer;
+import officeHours.Practice_05_06_2020.Developer;
 
 public class HumanResources {
    static   Developer dev1= new Developer();
