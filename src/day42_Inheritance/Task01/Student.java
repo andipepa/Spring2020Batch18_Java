@@ -1,10 +1,11 @@
-package day42_Inheritance;
+package day42_Inheritance.Task01;
+
 /*
 create a subclass of Person called Student
 				attributes: name, age, gender, studentID, clazz
 				methods: attendClass, code, setStudentInfo, toString
  */
-public class Student extends Person{
+public class Student extends Person {
 
     /*
     name (inherited)
@@ -41,7 +42,7 @@ public class Student extends Person{
         System.out.println(name+ " is coding");
     }
     public String toString(){
-        return "Student name: "+name+"\nAge: "+age+"\nGender: "+gender
-                +"\nStuden ID: "+studentID+"\nClass: "+clazz;
+        return "Student name: "+name+" Age: "+age+" Gender: "+gender
+                +" Studen ID: "+studentID+" Class: "+clazz+" School: "+schoolName;
     }
 }

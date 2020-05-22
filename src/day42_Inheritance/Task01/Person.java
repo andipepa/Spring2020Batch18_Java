@@ -1,4 +1,4 @@
-package day42_Inheritance;
+package day42_Inheritance.Task01;
 /*
 create a class called Person
 				attributes:  name, age, gender

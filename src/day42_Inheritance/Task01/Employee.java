@@ -1,4 +1,5 @@
-package day42_Inheritance;
+package day42_Inheritance.Task01;
+
 /*
    create a sub class of person called Employee
                attributes: name, age, gender, Salary, employeeID, jobTitle

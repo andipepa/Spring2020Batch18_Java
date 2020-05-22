@@ -3,7 +3,7 @@ package day22_Arrays_Loops;
 import java.util.Arrays;
 
 /*
-day41_Inheritance.day42_Inheritance.day42_Inheritance.day42_Inheritance.Task01:
+day41_Inheritance.day42_Inheritance.day42_Inheritance.day42_Inheritance.day42_Inheritance.day42_Inheritance.Task01:
         1. create an int array called numbers that has length of 100
         2. assign 1~100 to the array' each indexes
         3. use for each loop to rpint out all the even numbers.
